@@ -1,6 +1,6 @@
 # Product Data Scraper
 
-This script uses Playwright to scrape product data from a specified website and exports the data to a CSV file.
+This script uses Playwright to scrape product data from a specified website (REI) and exports the data to a CSV file.
 
 ## Features
 
@@ -20,10 +20,10 @@ This script uses Playwright to scrape product data from a specified website and 
 How to Use
 Edit Configuration:
 
-Execute the script using:
-bash
-Copy code
-node your-script-name.js
+Execute the script:
+
+- Copy the code
+- node your-file-name.js
 
 Schedule for Regular Updates:
 
