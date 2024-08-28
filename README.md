@@ -6,7 +6,7 @@ This script uses Playwright to scrape product data from specific URLs (e.g., REI
 
 - Extracts product details such as URLs, savings, brand, title, and ratings.
 - Converts the extracted data into CSV format and saves it in a csv directory.
-- Automatically emails the CSV file to a specified recipient. (TODO)
+- Automatically emails the CSV file to a specified recipient.
 
 ## Code Overview
 
